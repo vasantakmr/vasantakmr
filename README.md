@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center" >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasantakmr&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Activity+last+30+days&area=true">
+<br></br>
+<img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=vasantakmr&theme=midnight-purple&hide_border=false'/>
+</p>
+
 <!--
 **vasantakmr/vasantakmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
