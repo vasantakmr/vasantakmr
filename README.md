@@ -6,9 +6,6 @@
 <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=vasantakmr&theme=midnight-purple&hide_border=false'/>
 </p>
 
-**Visitors Count** 
-
-![VisitorCount](https://profile-counter.glitch.me/{vasantakmr}/count.svg) </div>
 
 <!--
 **vasantakmr/vasantakmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
